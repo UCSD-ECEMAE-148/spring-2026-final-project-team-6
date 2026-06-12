@@ -1,1 +1,44 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/r686kJSN)
+# UCSD ECE/MAE 148 Team 6 Final Project 
+
+<!-- Images UCSD and  -->
+
+<details>
+<summary><span style="font-size: 1.5em"><b>Table of Contents</b></span></summary>
+
+1. [Team Members](#team-members)
+2. [Project Overview](#project-overview)
+
+</details>
+
+## Team Members: 
+
+| Name | Major | Year |
+|---------------------|---------------------|---------------------|
+| Ahnaf H. | Mechanical Engineering| 2027 |
+| Daniel O. | Computer Engineering | 2026 |
+| Tracy T. | Mechanical Engineering | 2027 |
+| Vincent S. | Computer Engineering | 2029 |
+
+## Project Overview 
+
+### Original Goals
+
+### Goals we met 
+
+### Stretch Goals
+## Project Goals 
+
+## Accomplishments 
+
+## Challenges 
+
+## Software 
+
+## Hardware 
+
+## Circut Diagram 
+
+## Course Deliverables 
+
+## Project Reconstruction 
+
