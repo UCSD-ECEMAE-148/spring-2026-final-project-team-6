@@ -1,8 +1,8 @@
 # UCSD ECE/MAE 148 Team 6 Final Project 
 
-![Autonomous Patrol Robot](assets/Car_Image_1.png)
+![Autonomous Patrol Robot](Assets/Car_Image_1.png)
 # Doom Patrol: An Autonomous Security Guard 
-![UCSD Logo](assets/UCSDLogo.png)
+![UCSD Logo](Assets/UCSDLogo.png)
 
 
 
@@ -60,8 +60,8 @@ Thermal Patrol is an autonomous indoor security robot built ontop of UCSD's robo
 ## Mechanical Design 
 
 <p float="left">
-  <img src="assets/CAD_Image_Front.png" height="300" />
-  <img src="assets/CAD_Image_Side.png" height="300" />
+  <img src="Assets/CAD_Image_Front.png" height="300" />
+  <img src="Assets/CAD_Image_Side.png" height="300" />
 </p>
 
 
@@ -121,8 +121,8 @@ If we had one more week we would have implemented...
 
 <table>
   <tr>
-    <td><img src="assets/Original_Gantt.png" height="200" /></td>
-    <td><img src="assets/New_Gantt.png" height="200" /></td>
+    <td><img src="Assets/Original_Gantt.png" height="200" /></td>
+    <td><img src="Assets/New_Gantt.png" height="200" /></td>
   </tr>
   <tr>
     <td align="center">Origional Gantt Chart</td>
