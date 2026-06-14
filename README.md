@@ -28,7 +28,7 @@
 | Name | Major | Year |
 |---------------------|---------------------|---------------------|
 | Ahnaf H. | Mechanical Engineering| 2027 |
-| Daniel O. | Computer Engineering | 2026 |
+| Daniel G. | Computer Engineering | 2026 |
 | Tracy T. | Mechanical Engineering | 2027 |
 | Vincent S. | Computer Engineering | 2029 |
 
@@ -157,6 +157,7 @@ If we had one more week we would have implemented...
 ## Videos and Resources 
 
 [Obsticle Avoidance](https://youtube.com/shorts/Ne7ax94jiF0?si=FTmq4ty8AiIL6D_a)
+
 [Detecting a Heat Signature](https://youtube.com/shorts/zQ_pmDfTHU4?si=xNAbVGE-Ol0OvEGU) 
 (This video was fillmed before obsticle avoidance was fully implemented hence why it stops for the cone instead of going around it)
 
