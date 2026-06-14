@@ -70,7 +70,11 @@ Thermal Patrol is an autonomous indoor security robot built ontop of UCSD's robo
   <img src="Assets/CAD_Image_Side.png" height="300" />
 </p>
 
-
+Our mechanical design consists of a few main components: 
+- Base plate made out of acrilic with slots to allow for easy mounting 
+- A multipurpose mount holding the LiDAR at the top and also housing the ESP-32 and thermal camera along with an adjustable mount for an OAK-D Lite camera 
+- At the back is our GPS mount also holding our on and off switch and containing mounting holes for our DC to DC converter 
+- Last at the back the speaker is mounted to the GPS mount using a custom case that twists onto the speaker 
 
 ## Accomplishments 
 
@@ -159,7 +163,7 @@ If we had one more week we would have implemented...
 [Obsticle Avoidance](https://youtube.com/shorts/Ne7ax94jiF0?si=FTmq4ty8AiIL6D_a)
 
 [Detecting a Heat Signature](https://youtube.com/shorts/zQ_pmDfTHU4?si=xNAbVGE-Ol0OvEGU) 
-(This video was fillmed before obsticle avoidance was fully implemented hence why it stops for the cone instead of going around it)
+(Note: this video was fillmed before obsticle avoidance was fully implemented hence why it stops for the cone instead of going around it)
 
 [Final Presentation](Assets/ECE%20148%20Final%20Project%20Presentation.pdf)
 
