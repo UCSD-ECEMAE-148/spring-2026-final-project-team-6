@@ -14,7 +14,12 @@
 2. [Project Overview](#project-overview)
 3. [Goals](#goals)
 4. [Robot Hardware](#robot-hardware)
-5. 
+5. [Mechanical Design](#mechanical-design)
+6. [Accomplishments](#accomplishments)
+7. [Lessons Learned](#lessons-learned)
+8. [Next Steps](#next-steps)
+9. [Gantt Chart](#gantt-chart)
+10. [Project Reconstruction](#project-reconstruction)
 
 
 ## Team Members: 
@@ -96,6 +101,19 @@ Thermal Patrol is an autonomous indoor security robot built ontop of UCSD's robo
 | SLAM | Generated noisy and inconsistent maps; unable to consistently map a symmetrical hallway | Tried filtering out bad poses; next step would be RTAB-Map with an OAK-D camera for visual anchors |
 
 
+<table align="center" width="90%">
+  <tr>
+    <td align="center"><img src="Assets/Odometry_Drift_Image.png" height="200" /></td>
+    <td align="center"><img src="Assets/LiDAR_Issues.png" height="200" /></td>
+  </tr>
+  <tr>
+    <td align="center">Display of odometry drift: red dots are the actual percived path and purple is our actual odometry data</td>
+    <td align="center">Display of our SLAM map faliures:
+     1. The mapping becomes off at an angle due to odometry drift 
+     2. The end of the map shifts due to the symetry and difficulties pattern matching in that cast</td>
+  </tr>
+</table>
+
 ## Lessons Learned 
 - **Start early and test frequently:** hardware and software issues come up frequently even the smallest things break
 - **Expect things to break:** leave time for debugging and unexpected faliures 
@@ -135,6 +153,15 @@ If we had one more week we would have implemented...
 - We spent a lot more time debugging and had far more hardware issues than we thought for example debugging the ROS2 laps. 
 - SLAM localization proved much harder to implement that we expected and forced us to focus on more alternative options. 
 
+## Videos 
+
+
+
 
 ## Project Reconstruction 
+
+Here are a few steps on how to recreate our project: 
+
+### Prerequisites: 
+
 
